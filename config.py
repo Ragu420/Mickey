@@ -7,11 +7,11 @@ load_dotenv()
 API_ID = int(getenv("API_ID", 27353035))
 API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 BOT_TOKEN = getenv("BOT_TOKEN", )
-OWNER_ID = int(getenv("OWNER_ID", 5350929381))
+OWNER_ID = int(getenv("OWNER_ID", 6306333317))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://ragujeeva45:<Vasi420>@cluster0.jjbnpgx.mongodb.net/?retryWrites=true&w=majority")
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Heaven_vibezz")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "tamilchat_full_charge")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Hacker_vasi")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "Crazy_Friends_Tamil")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "tamil_chat_420")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Gangster_420")
 
 # Random Start Images
 IMG = [
